@@ -4,3 +4,5 @@ This is the Test line from Git
 This is Test2 from the local Machine
 This is the Test2 from Git
 This is Test3 from AWS local Machine
+This one is from My Compter for Testing
+Test 3 from GIT check with PC
